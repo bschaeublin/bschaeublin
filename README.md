@@ -9,9 +9,13 @@ When I'm not coding, I love spending time outdoors with my furry best friend, ta
 
 
 ### Some insights
+![](https://komarev.com/ghpvc/?username=bschaeublin)  
+
+
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bschaeublin&count_private=true&show_icons=true&theme=github_dark&hide=stars" />
 </span>
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bschaeublin&layout=compact&theme=github_dark&count_private=true" />
 </span>
+   
