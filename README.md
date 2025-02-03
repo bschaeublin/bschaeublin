@@ -4,7 +4,7 @@ I'm a passionate developer with a love for clean code and beautiful UI's. I have
 When I'm not coding, I love spending time outdoors with my furry best friend, taking long walks with "Avicii", a Greater Swiss Mountain Dog.
 
 
-<img src="dog.webp" alt="my dog, avicii" height="400" />  
+<img src="dog.webp" alt="my dog, avicii" style="width: minmax(100%,800px)" />  
 
 
 
